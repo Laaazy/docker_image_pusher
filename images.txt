@@ -1,1 +1,1 @@
-swr.cn-east-3.myhuaweicloud.com/kubesre/docker.getcollate.io/openmetadata/postgresql:1.6.1
+alpine:3.19.1
